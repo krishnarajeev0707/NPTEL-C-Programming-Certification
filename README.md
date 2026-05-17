@@ -23,6 +23,7 @@ Although the course was fast-paced, it helped me build a strong understanding of
 This repository is maintained as a record of my progress and foundational learning in C programming.
 
 ## Certificate
+
 The course completion certificate is included in this repository.
 
-![NPTEL C Programming Certificate](screenshots/certificate.jpeg)
+[View Certificate](certificate.pdf)
