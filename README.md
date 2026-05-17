@@ -26,4 +26,4 @@ This repository is maintained as a record of my progress and foundational learni
 
 The course completion certificate is included in this repository.
 
-[View Certificate](certificate.pdf)
+[View Certificate](https://github.com/krishnarajeev0707/NPTEL-C-Programming-Certification/blob/main/certificate.pdf)
